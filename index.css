@@ -127,7 +127,7 @@ body
 .icon_box:hover h4
 {
     font-size: 17pt;
-    color: rgb(158, 250, 255);
+    color:  rgb(179, 255, 255);
     transition: ease-in-out 0.5s;
 }
 .icon_box:hover p
@@ -149,6 +149,14 @@ body
     text-decoration: none;
     color: white;
     margin: 0 10px;
+}
+.footer-icon
+{
+    color: white;
+}
+.footer-icon:hover
+{
+    color:  rgb(179, 255, 255);
 }
 .footer h3
 {
