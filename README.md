@@ -12,7 +12,7 @@ This website will help many freshman and teachers in Sorabol High School.
 
 ### FrondEnd
 
-* 김현재(Napol)
+* 팀장 - 김현재(Napol)
   * email : loma1016@gmail.com
 
 * 김규석(Supia)
